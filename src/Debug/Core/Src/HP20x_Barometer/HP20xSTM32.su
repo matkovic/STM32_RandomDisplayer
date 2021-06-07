@@ -1,0 +1,7 @@
+HP20xSTM32.c:19:19:readFromReg	40	static
+HP20xSTM32.c:31:19:writeToReg	32	static
+HP20xSTM32.c:49:19:enableCompensation	16	static
+HP20xSTM32.c:67:19:HP20x_begin	24	static
+HP20xSTM32.c:90:19:HP20x_readTemp	48	dynamic
+HP20xSTM32.c:116:19:HP20x_readPressure	48	dynamic
+HP20xSTM32.c:139:19:HP20x_readAltitude	40	dynamic
