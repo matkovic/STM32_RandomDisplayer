@@ -2,7 +2,7 @@
 
 Show air pressure, temperature and altitude on LCD display, when triggered by distance sensor.
 
-![Random displayer](./imgs/stm32_display_on.jpg "Random displayer")
+![Random displayer](./imgs/stm32_display_on1.jpg "Random displayer")
 
 
 ## About
@@ -32,4 +32,4 @@ The existing [library from 4ilo](https://github.com/4ilo/HD44780-Stm32HAL) works
 For the pins setup and STM32 connections, STM32CubeIDE / STM32CubeMX was used which takes care of the most stuff using HAL library.
 
 
-![Box](./imgs/stm32_wires.jpg "Box")
+![Box](./imgs/stm32_wires1.jpg "Box")
